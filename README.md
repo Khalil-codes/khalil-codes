@@ -9,7 +9,7 @@ I'm a Senior Software Engineer with close to 3 years of experience. I specialize
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalil-patiwala/)
-[![porfolio](https://img.shields.io/badge/portfolio-15355A?style=for-the-badge&logo=internetcomputer&logoColor=white)](https://www.linkedin.com/in/khalil-patiwala/)
+[![porfolio](https://img.shields.io/badge/portfolio-15355A?style=for-the-badge&logo=internetcomputer&logoColor=white)](https://khxlil.vercel.app)
 
 
 ## 🛠 Skills
