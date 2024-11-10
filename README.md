@@ -13,7 +13,7 @@ I'm a Software Engineer with close to 3 years of experience. I specialize in Fro
 
 
 ## 🛠 Skills
-Javascript, Typescript, Next JS, React JS, Prisma, Supabase, PostgreSQL, Tailwind CSS, Shadcn UI, Framer Motion, Sanity CMS, Zapier, React Flow, Freshsales, HTML, CSS.
+Javascript, Typescript, Next JS, React JS, Prisma, Supabase, PostgreSQL, Tailwind CSS, Shadcn UI, Framer Motion, Sanity CMS, Zapier, React Flow, Socket, Redis, Freshsales, HTML, CSS.
 
 
 ## More about me
