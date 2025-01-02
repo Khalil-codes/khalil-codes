@@ -31,4 +31,4 @@ Javascript, Typescript, Next JS, React JS, Prisma, Supabase, PostgreSQL, Tailwin
 
 ![Khalil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=khalil-codes&show_icons=true&locale=en&layout=compact)
 
-![Khalil's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=khalil-codes)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=khalil-codes)](https://git.io/streak-stats)
